@@ -44,12 +44,12 @@
     cursor: pointer;
 }
 
-.btn-pink { background-color: #FF69B4; }
-.btn-red { background-color: #d1544b; } /* Atualizada */
-.btn-blue { background-color: #4a86ad; } /* Atualizada */
-.btn-purple { background-color: #800080; }
-.btn-green { background-color: #008000; }
-.btn-new-color { background-color: #dd9742; } /* Adicionada */
+.btn-pink { background-color: #ea72a6; }
+.btn-red { background-color: #d1544b; }
+.btn-blue { background-color: #4a86ad; }
+.btn-purple { background-color: #906aa0; }
+.btn-green { background-color: #60c878; }
+.btn-new-color { background-color: #dd9742; }
 
 /* Clear Button */
 .btn-clear {
